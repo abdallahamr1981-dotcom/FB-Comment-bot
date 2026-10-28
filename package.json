@@ -1,0 +1,8 @@
+{
+  "name": "fb-comment-bot",
+  "version": "1.0.0",
+  "description": "Auto-reply to Facebook Page comments and send a private reply",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
